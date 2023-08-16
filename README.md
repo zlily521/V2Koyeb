@@ -31,12 +31,6 @@
   | NEZHA_PORT   | 否 |        | 哪吒探针服务端的端口 |
   | NEZHA_KEY    | 否 |        | 哪吒探针客户端专用 Key |
 
-![image](https://user-images.githubusercontent.com/92626977/211201128-8eb8c495-03b1-4837-b11d-db5d5cf37a10.png)
-![image](https://user-images.githubusercontent.com/92626977/211201164-51917877-c672-4b62-9031-67b497fd0936.png)
-![image](https://user-images.githubusercontent.com/92626977/211201178-386d8e2c-189b-40ba-a37f-ebcd4ae2be5e.png)
-![image](https://user-images.githubusercontent.com/92626977/211201189-62649d0d-ebb0-42f4-946a-38dea2601b46.png)
-![image](https://user-images.githubusercontent.com/92626977/211201196-3d7e59ae-3b55-42db-81ac-b324d60a0bb1.png)
-![image](https://user-images.githubusercontent.com/92626977/211201217-6a5c9493-4aa9-4c68-9cba-966893617ab0.png)
 
 ## 鸣谢下列作者的文章和项目:
 ifeng 的 v2ray 项目，在此基础上作修改 https://www.hicairo.com https://github.com/hiifeng
